@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=ecorona-&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Corona040&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=ecorona-&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Corona040&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
 </div>
