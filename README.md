@@ -4,6 +4,6 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=corona040&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff)](https://github.com/corona040)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corona040&layout=compact&theme=transparent&hide_border=true&text_color=ffffff)](https://github.com/corona040)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Corona040)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Corona040)](https://github.com/anuraghazra/github-readme-stats)
 
